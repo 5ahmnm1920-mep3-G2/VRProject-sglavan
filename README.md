@@ -1,4 +1,4 @@
-### VR Project for Oculus Go
+### VR Project for Rift
 * Concept
 
 A 3D globe is in the middle of a room. The goal is to shoot the moon in the right speed and from the right location to make it orbit around the globe correctly.
