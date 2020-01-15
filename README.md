@@ -5,11 +5,8 @@ A 3D globe is in the middle of a room. There are walls in the room and on each w
 
 * Concept Pictures
 ![GitHub Logo](/Concept/1.jpg)
-Format: ![Alt Text](url)
-
 ![GitHub Logo](/Concept/2.jpg)
-Format: ![Alt Text](url)
-
+![GitHub Logo](/Moodboard.jpg)
 
 * Dev-Platform
 * Target-Platfrom
@@ -18,5 +15,7 @@ Format: ![Alt Text](url)
 * Gameplay Screenshots
 * Lessons Learned and Limitatons
 * Resources used
+Globe: https://www.turbosquid.com/FullPreview/Index.cfm/ID/748104
+
 
 Copyright by Sarah Glavan
