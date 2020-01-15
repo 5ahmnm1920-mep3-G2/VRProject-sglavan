@@ -1,25 +1,25 @@
 ### VR Project for Rift
-* Concept
+* Concept:
 
 A 3D globe is in the middle of a room. There are walls in the room and on each wall are pictures and videos from cities around the world. Over the globe names of cities are shown. The goal is to press on the right button on the wall with the pictures/videos matching the cityname over the globe.
 
-* Concept Pictures
+* Concept Pictures:
 ![Concept](/Concept/1.jpg)
 ![Concept](/Concept/2.jpg)
 ![Concept](/Moodboard.jpg)
 
-* Dev-Platform
+* Dev-Platform:
 Unity 2019.1.14f
 Visual Studio 2019 for Mac
 
-* Target-Platfrom
+* Target-Platfrom:
 * Status
 30%
 
-* Controls
+* Controls:
 look around with Oculus Rift SetUp, Teleporting via Buttons
 
-* Gameplay Screenshots
+* Gameplay Screenshots:
 * Lessons Learned and Limitatons
 15.01.2020: Unity VR SetUp, Whiteboxing, Windows Build Install
 * Resources used
