@@ -6,7 +6,7 @@ A 3D globe is in the middle of a room. There are walls in the room and on each w
 * Concept Pictures:
 ![Concept](/Concept/1.jpg)
 ![Concept](/Concept/2.jpg)
-![Concept](/Moodboard.jpg)
+![Concept](/Concept/Moodboard.jpg)
 
 * Dev-Platform:
 Unity 2019.1.14f
@@ -22,7 +22,17 @@ look around with Oculus Rift SetUp, Teleporting via Buttons
 
 * Gameplay Screenshots:
 * Lessons Learned and Limitatons:
+04.12.19 CFC Prüfung (nicht anwesend) :(
+11.12.19 Development Setup, Organisation (Meerwald) 
+18.12.19 Projektidee Entwicklung, Git-Branch, Kanban Board planen
+08.01.2020: Recherche zu VR Setup in Unity, Oculus Rift Recherche
 15.01.2020: Unity VR SetUp, Whiteboxing, Windows Build Install
+22.01.2020: krank :(
+29.01.2020: Teleport Area Test, funktioniert nicht (Fehlermeldung Console) -> habe versucht es zu fixen aber leider nicht geschafft
+![Screenshot](/Screenshots/1)
+05.02.2020: Globe Roatation, Teleport Area gefixed (Preview Mode Unity), Images on Wall gefixed
+
+
 * Resources used:
 Globe: https://www.turbosquid.com/FullPreview/Index.cfm/ID/748104
 
