@@ -1,27 +1,27 @@
-# VR Project "Finde the City" for Rift
+# VR Project "Find the City" for Rift
 ## Concept:
 
 A 3D globe is in the middle of a room. There are walls in the room and on each wall are pictures and videos from cities around the world. Over the globe names of cities are shown. The goal is to press on the right button on the wall with the pictures/videos matching the cityname over the globe.
 
-######Concept Pictures:
+###### Concept Pictures:
 ![Concept](/Concept/1.jpg)
 ![Concept](/Concept/2.jpg)
 ![Concept](/Concept/Moodboard.jpg)
 
-######Dev-Platform:
+###### Dev-Platform:
 Unity 2019.1.14f
 Visual Studio 2019 for Mac
 
-######Target-Platfrom:
+###### Target-Platfrom:
 
-######Status:
+###### Status:
 60%
 
-######Controls:
+###### Controls:
 look around with Oculus Rift SetUp, Teleporting via Buttons
 
-######Gameplay Screenshots:
-######Lessons Learned and Limitatons:
+###### Gameplay Screenshots:
+###### Lessons Learned and Limitatons:
 * 04.12.19 CFC Prüfung (nicht anwesend) :(
 * 11.12.19 Development Setup, Organisation (Meerwald) 
 * 18.12.19 Projektidee Entwicklung, Git-Branch, Kanban Board planen
@@ -33,7 +33,7 @@ look around with Oculus Rift SetUp, Teleporting via Buttons
 * 05.02.2020: Globe Roatation, Teleport Area gefixed (Preview Mode Unity), Images on Wall gefixed
 
 
-######Resources used:
+###### Resources used:
 Globe: https://www.turbosquid.com/FullPreview/Index.cfm/ID/748104
 
 
