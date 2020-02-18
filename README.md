@@ -22,6 +22,7 @@ Oculus Rift
 look around with Oculus Rift SetUp, Teleporting via Buttons
 
 ###### Gameplay Screenshots:
+![Screenshot](/Screenshots/Gameplay.png)
 ###### Lessons Learned and Limitatons:
 * 04.12.19 CFC Prüfung (nicht anwesend) :(
 * 11.12.19 Development Setup, Organisation (Meerwald) 
@@ -35,8 +36,8 @@ look around with Oculus Rift SetUp, Teleporting via Buttons
 
 
 ###### Resources used:
-Globe: https://www.turbosquid.com/FullPreview/Index.cfm/ID/748104
-Madrid Image: https://www.zuklin.at/al_product/madrid-im-herbst/
+* Globe: https://www.turbosquid.com/FullPreview/Index.cfm/ID/748104
+* Madrid Image: https://www.zuklin.at/al_product/madrid-im-herbst/
 
 
-Copyright by Sarah Glavan
+## Copyright by Sarah Glavan
