@@ -9,6 +9,7 @@ A 3D globe is in the middle of a room. There are walls in the room and on each w
 ![Concept](/Concept/Moodboard.jpg)
 
 ###### Dev-Platform:
+macOS Mojave Version 10.14.6
 Unity 2019.1.14f
 Visual Studio 2019 for Mac
 
@@ -33,11 +34,15 @@ look around with Oculus Rift SetUp, Teleporting via Buttons
 * 29.01.2020: Teleport Area Test, funktioniert nicht (Fehlermeldung Console) -> habe versucht es zu fixen aber leider nicht geschafft
 ![Screenshot](/Screenshots/1.png)
 * 05.02.2020: Globe Roatation, Teleport Area gefixed (Preview Mode Unity), Images on Wall gefixed
+* 18.02.2020 Dokumentation schreiben und Github Fehler gefixed.
 
 
 ###### Resources used:
 * Globe: https://www.turbosquid.com/FullPreview/Index.cfm/ID/748104
 * Madrid Image: https://www.zuklin.at/al_product/madrid-im-herbst/
+
+###### DOKUMENTATION:
+![Dokumantation](/Dokumentation/Glavan_Dokumentation.pdf)
 
 
 ## Copyright by Sarah Glavan
